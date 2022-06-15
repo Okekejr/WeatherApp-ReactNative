@@ -22,4 +22,4 @@ yarn start
 
 ## Stack
 
-<p align="left"> <img src="https://www.pinpng.com/pngs/m/510-5100567_react-native-svg-transformer-allows-you-import-svg.png" alt="reactNative" width="40" height="40"/>
+<p align="left"> <img src="https://www.pinpng.com/pngs/m/510-5100567_react-native-svg-transformer-allows-you-import-svg.png" alt="reactNative" width="50" height="50"/>
